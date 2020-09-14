@@ -1,0 +1,16 @@
+2019-04-10T22:17:17.858 user: MONU2314 requested to borrow an item(CON6231) to/from Concordia, the result: Borrowed successfully.
+2019-04-10T22:17:33.163 user: MONU2314 requested to borrow an item(MON6231) to/from Montreal, the result: Borrowed successfully.
+2019-04-10T22:23:57.042 user: MONU2314 requested to borrow an item(CON6231) to/from Concordia, the result: Borrowed successfully.
+2019-04-10T22:24:02.621 user: MONU2314 requested to borrow an item(MON6231) to/from Montreal, the result: Borrowed successfully.
+2019-04-11T01:28:29.759 user: MONU2314 requested to borrow an item(CON6231) to/from Concordia, the result: Borrowed successfully.
+2019-04-11T01:28:35.002 user: MONU2314 requested to borrow an item(MON6231) to/from Montreal, the result: Borrowed successfully.
+2019-04-11T01:29:33.090 user: MONU2314 requested to return an item(MON6231) to/from Montreal, the result: Item returned..
+2019-04-12T17:15:35.668 user: MONU2314 requested to borrow an item(CON3451) to/from Concordia, the result: Borrowed successfully.
+2019-04-12T17:15:39.319 user: MONU2314 requested to borrow an item(CON3451) to/from Concordia, the result: You're already borrowed 1 item from Concordia library.
+2019-04-12T17:15:48.295 user: MONU2314 requested to borrow an item(CON1234) to/from Concordia, the result: You're already borrowed 1 item from Concordia library.
+2019-04-12T17:15:50.359 user: MONU2314 requested to return an item(CON1234) to/from Concordia, the result: You did not borrow this item..
+2019-04-12T17:15:55.223 user: MONU2314 requested to return an item(CON3451) to/from Concordia, the result: Item returned..
+2019-04-12T17:16:07.974 user: MONU2314 requested to borrow an item(CON3451) to/from Concordia, the result: Borrowed successfully.
+2019-04-12T17:18:07.899 user: MONU2314 requested to return an item(CON1234) to/from Concordia, the result: Item returned..
+2019-04-12T17:18:10.543 user: MONU2314 requested to return an item(CON1234) to/from Concordia, the result: You did not borrow this item..
+2019-04-12T17:18:15.208 user: MONU2314 requested to return an item(MON0912) to/from Montreal, the result: You did not borrow this item.

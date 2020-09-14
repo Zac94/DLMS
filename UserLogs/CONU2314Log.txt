@@ -1,0 +1,7 @@
+2019-04-11T22:54:43.439 user: CONU2314 requested to return an item(CON3451) to/from Concordia, the result: You did not borrow this item.
+2019-04-11T22:54:47.409 user: CONU2314 requested to borrow an item(CON3451) to/from Concordia, the result: Borrowed successfully.
+2019-04-11T22:54:49.923 user: CONU2314 requested to borrow an item(CON3451) to/from Concordia, the result: Already borrowed..
+2019-04-11T22:57:12.040 user: CONU2314 requested to return an item(MCG1675) to/from McGill, the result: Item returned..
+2019-04-11T22:57:18.636 user: CONU2314 requested to borrow an item(CON3451) to/from Concordia, the result: Borrowed successfully.
+2019-04-11T22:57:21.035 user: CONU2314 requested to return an item(CON3451) to/from Concordia, the result: Item returned..
+2019-04-13T13:15:28.831 user: CONU2314 requested to borrow an item(MCG6961) to/from McGill, the result: Borrowed successfully.

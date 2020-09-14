@@ -1,0 +1,2 @@
+2019-04-13T13:15:07.833 user: MCGM2314 requested to add an item(MCG6961) to/from McGill, the result: Item added successfully.
+2019-04-13T13:16:06.696 user: MCGM2314 requested to remove an item(MCG6961) to/from McGill, the result: Item removed successfully.

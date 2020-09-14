@@ -1,0 +1,15 @@
+2019-04-11T00:46:53.161 MCGU2314 requested to return an item(MCG8888) to/from McGill, the result: fail, response is: Item does not exist.
+2019-04-11T00:47:21.861 MCGU2314 requested to return an item(MCG9999) to/from McGill, the result: fail, response is: Item does not exist.
+2019-04-11T01:06:49.233 MCGU2314 requested to return an item(MCGU2314) to/from McGill, the result: fail, response is: Item does not exist.
+2019-04-11T01:07:15.288 MCGU2314 requested to return an item(MCG9999) to/from McGill, the result: fail, response is: Item does not exist.
+2019-04-11T01:08:58.246 MCGU2314 requested to return an item(MCG9999) to/from McGill, the result: fail, response is: Item does not exist.
+2019-04-11T01:10:23.005 MCGU2314 requested to return an item(MCG9999) to/from McGill, the result: fail, response is: Item does not exist.
+2019-04-11T01:20:57.414 MCGU2314 requested to return an item(MCG9999) to/from McGill, the result: fail, response is: Item does not exist.
+2019-04-11T01:21:24.076 MCGU2314 requested to return an item(MCG9999) to/from McGill, the result: fail, response is: Item does not exist.
+2019-04-11T22:55:27.061 CONU2314 requested to borrow an item(MCG1675) to/from McGill, the result: success, response is: Borrow successfully..
+2019-04-11T22:57:12.036 CONU2314 requested to return an item(MCG1675) to/from McGill, the result: success, response is: Item returned..
+2019-04-12T17:17:21.274 MONU2314 requested to borrow an item(MCG1675) to/from McGill, the result: success, response is: Borrow successfully..
+2019-04-12T17:17:41.009 MONU2314 requested to return an item(MCG1675) to/from McGill, the result: success, response is: Item returned..
+2019-04-13T13:15:07.793 MCGM2314 requested to add an item(MCG6961) to/from McGill, the result: success, response is: Item added successfully.
+2019-04-13T13:15:28.776 CONU2314 requested to borrow an item(MCG6961) to/from McGill, the result: success, response is: Borrow successfully..
+2019-04-13T13:16:06.693 MCGM2314 requested to remove an item(MCG6961) to/from McGill, the result: success, response is: Item removed successfully.

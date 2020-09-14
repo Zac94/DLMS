@@ -1,0 +1,19 @@
+2019-04-10T22:19:19.876 user: MCGU2314 requested to borrow an item(MON6231) to/from Montreal, the result: Out of Stock..
+2019-04-10T22:24:45.918 user: MCGU2314 requested to borrow an item(MON6231) to/from Montreal, the result: Out of Stock..
+2019-04-10T22:32:20.479 user: MCGU2314 requested to borrow an item(MON6231) to/from Montreal, the result: Out of Stock..
+2019-04-10T22:34:44.727 user: MCGU2314 requested to borrow an item(MON6231) to/from Montreal, the result: You're already in queue for 1 item from Montreal library..
+2019-04-10T22:43:30.806 user: MCGU2314 requested to borrow an item(MON6231) to/from Montreal, the result: Out of Stock..
+2019-04-11T00:05:34.174 user: MCGU2314 requested to borrow an item(MON6231) to/from Montreal, the result: Out of Stock..
+2019-04-11T00:16:37.585 user: MCGU2314 requested to borrow an item(MON6231) to/from Montreal, the result: Out of Stock..
+2019-04-11T00:46:53.191 user: MCGU2314 requested to return an item(MCG8888) to/from McGill, the result: Item does not exist.
+2019-04-11T00:47:21.864 user: MCGU2314 requested to return an item(MCG9999) to/from McGill, the result: Item does not exist.
+2019-04-11T01:06:25.768 user: MCGU2314 requested to borrow an item(MON9999) to/from Montreal, the result: Item not found..
+2019-04-11T01:06:49.238 user: MCGU2314 requested to return an item(MCGU2314) to/from McGill, the result: Item does not exist.
+2019-04-11T01:07:15.319 user: MCGU2314 requested to return an item(MCG9999) to/from McGill, the result: Item does not exist.
+2019-04-11T01:10:23.036 user: MCGU2314 requested to return an item(MCG9999) to/from McGill, the result: Item does not exist.
+2019-04-11T01:20:57.455 user: MCGU2314 requested to return an item(MCG9999) to/from McGill, the result: Item does not exist.
+2019-04-11T01:21:14.079 user: MCGU2314 requested to return an item(MON9999) to/from Montreal, the result: Wrong item ID..
+2019-04-11T01:21:24.080 user: MCGU2314 requested to return an item(MCG9999) to/from McGill, the result: Item does not exist.
+2019-04-11T01:29:03.985 user: MCGU2314 requested to borrow an item(MON6231) to/from Montreal, the result: Out of Stock..
+2019-04-11T01:29:11.366 user: MCGU2314 requested to borrow an item(CON6651) to/from Concordia, the result: Borrowed successfully.
+2019-04-11T01:30:21.583 user: MCGU2314 requested to borrow an item(MON6231) to/from Montreal, the result: You're already borrowed 1 item from Montreal library.
